@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html.theme-naskah {
+  color-scheme: light;
+  background-color: #f7f1e4;
+  color: #2b180d;
+}
+
+html.theme-dark {
+  color-scheme: dark;
+  background-color: #0c0a09;
+  color: #f5f5f4;
+}
+
+/* Naskah Kuno aged paper pattern */
+.bg-naskah-parchment {
+  background-color: #f7f1e4;
+  background-image: radial-gradient(#dfd1b8 0.75px, transparent 0.75px), radial-gradient(#dfd1b8 0.75px, #f7f1e4 0.75px);
+  background-size: 28px 28px;
+  background-position: 0 0, 14px 14px;
+}
+
+/* Antique classical border flourishes */
+.border-naskah {
+  border-color: #d8c5a8;
+}
+
+.border-naskah-accent {
+  border-color: #b38855;
+}
+
+/* Antique Arabic calligraphy accent */
+.font-arabic {
+  font-family: 'Amiri', 'Traditional Arabic', 'Scheherazade New', serif;
+}

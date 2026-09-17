@@ -1,0 +1,6 @@
+{
+  "name": "Kalibrasi Kiblat Rubu' Mujayyab",
+  "description": "Aplikasi kalibrasi arah kiblat, kalkulator hisab falak Kitab Rubu' Mujayyab, dan kalender Hijriyah/Masehi. Dikembangkan oleh Husni, S. Kom. I (Penyuluh KUA Kec. Gerung, Pengurus IPARI Kemenag Lombok Barat).",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
